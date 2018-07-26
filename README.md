@@ -32,7 +32,7 @@ I got a hold of Tobii Eye Tracking and decided to make a simple game with it. Th
 
 
 ## Outsourcing
-Artist: Jonas Lewis
+* Artist: Jonas Lewis <br>
 http://cakecreampipedream.com/ 
-Audio: Jean Manco
+* Audio: Jean Manco <br>
 https://soundcloud.com/poxuz
