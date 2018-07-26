@@ -2,8 +2,7 @@
 
 ![Eye Squash U](http://chronosayo.com/Art/eyesquashu.png)
 
-###### Roles: Programmer. 
-###### Developed in: Unity3D, C#.
+###### Roles: Programmer. <br> Developed in: Unity3D, C#.
 [Download Here](http://chronosayo.com/Games/Eye%20Squash%20U%20(By%20Sayo).zip)
 
 A simple squash game with eye tracking. Move the paddle with your eyes to where the ball is going to make it bounce back. Get as many hits as possible on the walls and try to keep the ball inside the play area as long as possible. If you don't have Tobii Eyetracking, you can use the mouse to move. Hold left mouse click for an easter egg.
